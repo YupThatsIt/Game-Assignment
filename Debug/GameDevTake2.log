@@ -1,0 +1,3 @@
+﻿  Weapon.cpp
+E:\C++ Journey\GameDevTake2\GameDevTake2\Weapon.cpp(92): warning C4715: 'Weapon::GetShootInfo': not all control paths return a value
+  GameDevTake2.vcxproj -> E:\C++ Journey\GameDevTake2\Debug\GameDevTake2.exe
